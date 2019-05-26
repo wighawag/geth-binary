@@ -1,0 +1,12 @@
+{
+  "name": "geth-binary",
+  "version": "0.1.3",
+  "main": "index.js",
+  "bin": {
+    "geth": "index.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@rauschma/stringio": "^1.4.0"
+  }
+}
